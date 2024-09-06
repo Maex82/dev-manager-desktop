@@ -46,5 +46,16 @@ import { RetryFailedComponent } from './retry-failed/retry-failed.component';
     NgOptimizedImage,
   ]
 })
-export class AddDeviceModule {
+export class Message: { erwartet.
+Problematic code: 192.168.178.24
+Context:
+```scss
+TVName:TV
+Name:prisoner
+IP 192.168.178.24
+Port: 9922
+sshssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5c7BBxp+NYzTvTvYHTrIdwjkPSORbp2uZKI1oGvJeSq6oCRVqQMcGrcEBWLzE1Q61JANpA4SaMpz53ro6ARJt3W0DXaih5Nv3NBYIf04ZWNMOjdLKGivvy+5OayLVieDqIfJbWDhdEBL2d4XjFXibPskPtlhMVjiV/TcharKZoFv7yE2h8AstkNDPjK1lQb1+cAdmIJLpXq9uTFGdgHZ/75GdsRK3pG+jpuvG9rfPjA1ZiSdl6YL9jAA3M3d3RGiKEhn9w3SCiCPyf4N+TvYHTrIdwjkPSORbp2uZKI1oGvJeSq6oCRVqQMcGrcEBWLzE1Q61J/Y9iFb8glwvohWw7sXN/3ZDv3puGipyF9oqQ4VFtSk3GRohpDevq43m4dnfrpwT5mW93 developer@device
+
+
+AddDeviceModule {
 }
